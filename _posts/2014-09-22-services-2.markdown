@@ -1,0 +1,10 @@
+---
+layout: default
+img: media.jpg
+category: Features
+title: Picture may be worth a thousand words
+description: |
+---
+  Some pictures are so important that you want to share them with others. And you want to do that now, just after you took it!
+
+  With Siskin IM you can send images as part of your conversation. No matter if it is conversation with one person or it is a group chat. Everyone will receive it, even if he is not available right now.

@@ -1,0 +1,10 @@
+---
+layout: default
+img: ipad.jpg
+category: Features
+title: Want to use a larger device?
+description: |
+---
+  With Siskin IM and synchronization of messages you can easily start conversation on iPhone and later on move to iPad to continue it using larger screen.
+
+  Siskin IM is prepared to use iPad screen efficiently making app easier to use.
