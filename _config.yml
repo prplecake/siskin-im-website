@@ -30,9 +30,10 @@ social:
     superclass: b
     class: twitter
     url: https://twitter.com/tigase
-  - title: appstore
-    class: download
-    url: https://itunes.apple.com/us/app/tigase-messenger/id1153516838
-  - title: sourcecode
-    class: code
-    url: https://tigase.tech/projects/tigase-ios-messenger
+  - title: facebook
+    superclass: b
+    class: facebook
+    url: https://www.facebook.com/tigase/
+  # - title: community
+  #   class: code
+  #   url: https://tigase.tech/projects/tigase-ios-messenger
