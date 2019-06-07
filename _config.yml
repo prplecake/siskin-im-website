@@ -34,6 +34,9 @@ social:
     superclass: b
     class: facebook
     url: https://www.facebook.com/tigase/
-  # - title: community
-  #   class: code
-  #   url: https://tigase.tech/projects/tigase-ios-messenger
+  - title: sourcecode
+    class: code
+    url: https://github.com/tigaseinc/beagle-im
+  - title: community
+    class: code
+    url: https://help.tigase.net
