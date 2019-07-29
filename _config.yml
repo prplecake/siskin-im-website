@@ -35,8 +35,12 @@ social:
     class: facebook
     url: https://www.facebook.com/tigase/
   - title: sourcecode
-    class: code
+    superclass: b
+    class: github
     url: https://github.com/tigaseinc/siskin-im
   - title: community
-    class: code
+    class: comments
     url: https://help.tigase.net
+  - title: tasks
+    class: tasks
+    url: https://projects.tigase.net
