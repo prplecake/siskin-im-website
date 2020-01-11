@@ -38,7 +38,7 @@ social:
   - title: sourcecode
     superclass: b
     class: github
-    url: https://github.com/tigaseinc/siskin-im
+    url: https://github.com/tigase/siskin-im
   - title: community
     class: comments
     url: https://help.tigase.net
