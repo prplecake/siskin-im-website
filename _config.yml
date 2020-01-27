@@ -41,7 +41,7 @@ social:
     url: https://github.com/tigase/siskin-im
   - title: community
     class: comments
-    url: https://help.tigase.net
+    url: https://github.com/tigase/siskin-im/issues
   - title: tasks
     class: tasks
     url: https://projects.tigase.net
