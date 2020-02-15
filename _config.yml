@@ -7,7 +7,7 @@ title: Siskin IM by Tigase, Inc.
 email: support@tigase.net
 author: Tigase, Inc.
 description: 'Lightweight and powerful XMPP client for iPhone and iPad, with audio and video calls and built-in privacy'
-copyright: 'Copyright &copy; 2019 Tigase, Inc. All Rights Reserved.'
+copyright: 'Copyright &copy; 2020 Tigase, Inc. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -23,25 +23,19 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
+  - title:
     superclass: b
     class: twitter
     url: https://twitter.com/tigase
-  - title: facebook
+  - title:
     superclass: b
     class: facebook
     url: https://www.facebook.com/tigase/
-  - title: mastodon
+  - title:
     superclass: b
     class: mastodon
     url: https://mastodon.technology/@tigase
-  - title: sourcecode
+  - title: github
     superclass: b
     class: github
     url: https://github.com/tigase/siskin-im
-  - title: community
-    class: comments
-    url: https://github.com/tigase/siskin-im/issues
-  - title: tasks
-    class: tasks
-    url: https://projects.tigase.net

@@ -262,7 +262,8 @@ footer {
 }
 
 .banner-social-buttons .btn {
-  padding: 0.8em;
+  padding: 0.6em;
+  font-size: 1.2em;
 }
 
 a.navbar-custom {
