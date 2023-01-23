@@ -20,8 +20,8 @@ h6 {
 
 header.masthead {
   position: relative;
-  background-color: #343a40;
-  background: url("../img/intro-bg.jpg") no-repeat center center;
+  background-color: #54597C;
+  background: url("../img/intro-bg.png") no-repeat center center, linear-gradient(#565B8C, #52577C);
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
