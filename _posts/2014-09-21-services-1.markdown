@@ -1,10 +1,10 @@
 ---
 layout: default
-img: colors.jpg
+img: dark-or-light.png
 category: Features
-title: What is your color?
+title: Dark or light?
 description: |
 ---
-  Do you prefer you app to use darker colors? Or maybe you you prefer lighter colors? Or maybe you want to have classic style?
+  Do you prefer you app to use darker colors? Or maybe you you prefer lighter colors?
 
   Either way Siskin IM is for you. It has appearances which you can choose from and easily change them.
