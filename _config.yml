@@ -35,7 +35,7 @@ social:
   - title:
     superclass: b
     class: mastodon
-    url: https://mastodon.technology/@tigase
+    url: https://fosstodon.org/@tigase
   - title: github
     superclass: b
     class: github
